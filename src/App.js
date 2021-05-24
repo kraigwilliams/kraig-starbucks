@@ -6,7 +6,7 @@ import './App.css';
 import HomeScreen from './app/components/HomeScreen';
 import Header from './app/components/Header';
 import Footer from './app/components/Footer';
-import {Fade} from 'react-awesome-reveal'
+// import {Fade} from 'react-awesome-reveal';
 
 function App() {
   return (
